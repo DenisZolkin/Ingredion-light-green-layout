@@ -2,7 +2,9 @@ body,
 .question-text,
 .inputs,
 .navigation,
-.wrapper > div {
+.wrapper > div,
+.question,
+.sm-text-container {
   background: #ffffff !important; }
 
 .grid .grid-answer-label {

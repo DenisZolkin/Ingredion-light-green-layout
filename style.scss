@@ -9,7 +9,9 @@ body,
 .question-text,
 .inputs,
 .navigation,
-.wrapper > div {
+.wrapper > div,
+.question,
+.sm-text-container {
   background: #ffffff !important;
 }
 
@@ -144,3 +146,4 @@ h1.question-text, .question-instruction {
   margin: 25px 0px;
   text-align: center;
 }
+
