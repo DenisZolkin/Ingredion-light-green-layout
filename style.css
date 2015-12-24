@@ -1,0 +1,112 @@
+body,
+.question-text,
+.inputs,
+.navigation,
+.wrapper > div {
+  background: #ffffff !important; }
+
+.grid .grid-answer-label {
+  display: none; }
+
+.grid.split-grid .grid-answer-label {
+  display: block; }
+.grid.split-grid .listheader {
+  background: #6cb33e !important;
+  border-top: 1px solid #6cb33e !important;
+  border-bottom: 1px solid #6cb33e !important;
+  text-shadow: none !important; }
+
+.hrs-min-label,
+.hrs-max-label {
+  display: none; }
+
+.question-text {
+  display: inline-block;
+  margin: 10px; }
+
+.grid,
+.grid .single-answer,
+.single-content .single-answer {
+  background: #ffffff !important; }
+
+.grid .single-answer.highlight,
+.single-content .single-answer.highlight {
+  background: #b2b4b3 !important; }
+
+.question-title,
+.top-nav,
+#Internal_Stop_title {
+  background: #ffffff !important;
+  height: 70px !important;
+  border-top: none;
+  border-bottom: 1px solid #b2b4b3; }
+
+.top-nav,
+#Internal_Stop_title {
+  background: #ffffff url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/ingredion_RGB_lorez_MED.jpg") center center no-repeat !important;
+  background-size: contain !important; }
+
+.navigation-clink, .navigation-next, .confirmit-rtl .navigation-back {
+  -moz-border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/right-arrow-lg.png") 0 15 0 6 fill stretch !important;
+  -webkit-border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/right-arrow-lg.png") 0 15 0 6 stretch stretch !important;
+  border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/right-arrow-lg.png") 0 15 0 6 fill stretch !important;
+  border-width: 0 15px 0 6px; }
+
+.navigation-clink:active, .navigation-next:active, .confirmit-rtl .navigation-back:active {
+  -webkit-border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/right-arrow-lg.png") 0 15 0 6 stretch stretch !important; }
+
+.navigation-back, .confirmit-rtl .navigation-next {
+  -moz-border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/left-arrow-lg.png") 0 6 0 15 fill stretch !important;
+  -webkit-border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/left-arrow-lg.png") 0 6 0 15 stretch stretch !important;
+  border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/left-arrow-lg.png") 0 6 0 15 fill stretch !important;
+  border-width: 0 6px 0 15px; }
+
+.navigation-back:active, .confirmit-rtl .navigation-next:active {
+  -webkit-border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/left-arrow-lg.png") 0 6 0 15 stretch stretch !important; }
+
+.navigation-ok {
+  -moz-border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/ok-lg.png") 1 6 1 5 fill stretch !important;
+  -webkit-border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/ok-lg.png") 1 6 1 5 stretch stretch !important;
+  border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/ok-lg.png") 1 6 1 5 fill stretch !important;
+  border-width: 1px 6px 1px 6px; }
+
+.navigation-ok:active {
+  -webkit-border-image: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/ok-lg.png") 1 12 1 10 stretch stretch !important;
+  border-width: 1px 6px 1px 6px; }
+
+.navigation a {
+  text-shadow: none !important; }
+
+.hrs-scale-item.selected {
+  background: #6cb33e !important;
+  color: #fff; }
+
+.slider-current-label, .numeric-slider-label {
+  background: #6cb33e !important;
+  color: #fff;
+  font-weight: bold;
+  line-height: 22px;
+  border: none; }
+
+.yui3-slider-thumb, .numeric-slider-container .yui3-slider-thumb {
+  background: url("https://author.confirmit.com/isa/AABAJPNPPINVCIIMJFCIIFBKOHDINRPB/Pulse%20VoC%20Survey/triangle-lg.png") no-repeat !important; }
+
+.slider-labels div:nth-of-type(2):before {
+  display: inline-block;
+  content: '10';
+  margin-right: 25%; }
+
+h1.question-text, .question-instruction {
+  margin: 8px 28px 8px 15px !important; }
+
+.loadingbar {
+  border: 5px solid #6cb33e !important;
+  border-top: 5px solid transparent !important; }
+
+.bottom-logo-container {
+  margin: 25px 0px;
+  text-align: center; }
+  .bottom-logo-container img {
+    height: 18px; }
+
+/*# sourceMappingURL=style.css.map */
